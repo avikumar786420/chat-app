@@ -70,3 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 command: npm install @ant-design/icons axios react-chat-engine
 website: chatengine.io (username details,etc)
+To see this project login to https://avinash-singh-chat-app.netlify.app/ with username:trial_chatapp and password:123456
